@@ -14,14 +14,15 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .item4 { background:#2e4761;}
 .item5 { background:#3abb1a;}
 .item6 { background:#db34c0;}
-.item7 { background:#1c74cc;}
+.item7 { background:#ccb51c;}
 
 .container {
   font-size: 60px;
-  /*border: 10px solid orange;*/
-  /*height: 50vh;*/
+  /*border: 10px solid orange;
+  height: 50vh;*/
 }
 
 .item {
-
+  /*width: 33.333%;
+  height: 29%;*/
 }
