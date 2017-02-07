@@ -18,30 +18,13 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 .container {
   font-size: 100px;
-  margin: 20px;
-  display: flex;
-  border: 10px solid orange;
+  /*height: 100vh;*/
+  /*border: 10px solid orange;*/
 }
 
 .item {
   flex-grow: 1;
 }
-
-
-
-/*.container {*/
-  /*font-size: 100px;*/
-  /*margin: 20px;*/
-  /*display: flex;*/
-  /*flex-direction: column;  */
-  /*border: 10px solid orange;*/
-  /*height: 100vh;*/
-  /*align-items: center;*/
-  /*justify-content: center;*/
-  /*flex-direction: column;*/
-  /*flex-wrap: wrap;*/
-  /*justify-content: space-around;*/
-/*}*/
 
 .item {
   /*padding: 20px;*/
